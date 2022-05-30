@@ -5,5 +5,8 @@ public class Main {
         ClassA classA = new ClassA();
         classA.printSomeText();
 
+        UserA userA = new UserA();
+        userA.printSomeText();
+
     }
 }
